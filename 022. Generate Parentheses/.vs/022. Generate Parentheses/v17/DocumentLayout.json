@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\LeetCode\\Co de\\022. Generate Parentheses\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E654E98F-2FDC-40CE-B629-91834ADF8EBA}|024. Swap Nodes in Pairs\\024. Swap Nodes in Pairs.vcxproj|D:\\LeetCode\\Co de\\022. Generate Parentheses\\024. Swap Nodes in Pairs\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E654E98F-2FDC-40CE-B629-91834ADF8EBA}|024. Swap Nodes in Pairs\\024. Swap Nodes in Pairs.vcxproj|solutionrelative:024. Swap Nodes in Pairs\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80CF4C18-6D1B-4D41-8249-6F4AA58B4976}|023. Merge k Sort List\\023. Merge k Sort List.vcxproj|D:\\LeetCode\\Co de\\022. Generate Parentheses\\023. Merge k Sort List\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{80CF4C18-6D1B-4D41-8249-6F4AA58B4976}|023. Merge k Sort List\\023. Merge k Sort List.vcxproj|solutionrelative:023. Merge k Sort List\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "D:\\LeetCode\\Co de\\022. Generate Parentheses\\024. Swap Nodes in Pairs\\Source.cpp",
+              "RelativeDocumentMoniker": "024. Swap Nodes in Pairs\\Source.cpp",
+              "ToolTip": "D:\\LeetCode\\Co de\\022. Generate Parentheses\\024. Swap Nodes in Pairs\\Source.cpp",
+              "RelativeToolTip": "024. Swap Nodes in Pairs\\Source.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-07T14:21:13.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "D:\\LeetCode\\Co de\\022. Generate Parentheses\\023. Merge k Sort List\\Source.cpp",
+              "RelativeDocumentMoniker": "023. Merge k Sort List\\Source.cpp",
+              "ToolTip": "D:\\LeetCode\\Co de\\022. Generate Parentheses\\023. Merge k Sort List\\Source.cpp",
+              "RelativeToolTip": "023. Merge k Sort List\\Source.cpp",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAFIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-07T13:08:24.798Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
